@@ -3,8 +3,6 @@ name: find-unknowns
 description: Surface your unknowns before, during, and after a task (blind spot pass, references, implementation notes, pitch/explainer, quiz). Use when starting unfamiliar work, when scope feels fuzzy, mid-implementation after hitting an edge case the plan didn't cover, or before merging/shipping a long session. For interviewing you about a plan question-by-question, use grill-me instead. For visual design brainstorm, use design-shotgun instead.
 ---
 
-Based on Anthropic's "A field guide to Claude Fable 5: finding your unknowns" (Thariq Shihipar).
-
 Core idea: the prompt is the map, the codebase/reality is the territory. The gap between them is your unknowns. Quality of output is bottlenecked by how well you surface those unknowns, not just by model capability.
 
 ## The four quadrants
